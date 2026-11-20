@@ -16,11 +16,12 @@ game's move list.
 
 - trial-0: 1654 (5 wins, 0 draws, 1 loss)
 - trial-1: 1654 (5 wins, 0 draws, 1 loss)
+- trial-2: 1451 (3 wins, 2 draws, 1 loss)
 
-Mean 1654; the practice floor is 1154 and the house baseline (sunfish 4K)
+Mean 1586; the practice floor is 1154 and the house baseline (sunfish 4K)
 rates 1365 on the same trials. A 50,000-node version of this engine rated
 1545 / 1364 / 1364 (mean 1424); doubling the node budget to 100,000 was
-worth about 230 Elo.
+worth about 160 Elo.
 
 ## Run a practice trial
 
